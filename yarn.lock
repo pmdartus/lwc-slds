@@ -854,7 +854,7 @@
     postcss-selector-parser "6.0.2"
     postcss-value-parser "3.3.1"
 
-"@lwc/synthetic-shadow@1.0.0":
+"@lwc/synthetic-shadow@1.0.0", "@lwc/synthetic-shadow@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@lwc/synthetic-shadow/-/synthetic-shadow-1.0.0.tgz#a9264b9e9fa42ae0a605482d2cecbe539f5148af"
   integrity sha512-iHyIsR1eghX2QfT5/lNJXU5VqgpOcvBSS/Z2fbShIJHlNQrSj380xqPu6D8QDARAly6QMDZGwH5bjFeb1dbbjw==
@@ -991,6 +991,11 @@
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@oclif/screen/-/screen-1.0.4.tgz#b740f68609dfae8aa71c3a6cab15d816407ba493"
   integrity sha512-60CHpq+eqnTxLZQ4PGHYNwUX572hgpMHGPtTWMjdTMsAvlm69lZV/4ly6O3sAYkomo4NggGcomrDpBe34rxUqw==
+
+"@salesforce-ux/design-system@^2.9.4":
+  version "2.9.4"
+  resolved "https://registry.yarnpkg.com/@salesforce-ux/design-system/-/design-system-2.9.4.tgz#52f23650cad7ced6116913d7b634fc585e974599"
+  integrity sha512-CDEjw/C2ymzNtBNnX/C62i7Lq8BmdmueTNIkrru2PU87NHOBTx5oP1Eo+buX8+qpnrODKgM8hiqQ+yqBOH7DjA==
 
 "@salesforce/eslint-config-lwc@^0.3":
   version "0.3.0"
